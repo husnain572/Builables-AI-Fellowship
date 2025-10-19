@@ -1,0 +1,5 @@
+This project taught me how conversational LLMs handle context and personality through prompt engineering. I learned that the system prompt controls the model’s behavior—formal, creative, or technical—and that small changes can significantly shift response tone and structure. Implementing a command-line interface helped me understand the flow between user input, API call, and model output.
+
+Converting the CLI chatbot into a Streamlit app showed how quickly conversational interfaces can become interactive and user-friendly. I also discovered how maintaining a message history provides contextual memory, allowing the model to respond coherently across turns.
+
+The bonus feature of saving conversations introduced me to state management and file persistence. Overall, this assignment deepened my understanding of prompt engineering, API usage, and UI integration with LLMs—key building blocks for any modern AI application.

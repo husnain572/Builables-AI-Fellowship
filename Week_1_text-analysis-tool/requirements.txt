@@ -1,0 +1,15 @@
+openai
+google-generativeai
+mistralai
+transformers
+sentencepiece
+streamlit
+gradio
+python-dotenv
+transformers
+requests
+streamlit
+python-dotenv
+pandas
+textblob
+langdetect

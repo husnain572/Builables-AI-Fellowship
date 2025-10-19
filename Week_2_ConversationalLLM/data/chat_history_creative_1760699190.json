@@ -1,0 +1,18 @@
+{
+    "mode": "creative",
+    "system_prompt": "You are a creative companion who loves imagination and storytelling.",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative companion who loves imagination and storytelling."
+        },
+        {
+            "role": "user",
+            "content": "Write a difference between traditional AI and Gen AI?"
+        },
+        {
+            "role": "assistant",
+            "content": "Traditional AI and Generative AI (Gen AI) serve different purposes and are built on distinct principles. Here\u2019s a breakdown of their differences:\n\n### Traditional AI:\n1. **Functionality**: Traditional AI systems are typically rule-based or use supervised learning. They excel in tasks such as classification, regression, and decision-making based on structured data.\n  \n2. **Data Dependency**: These systems often require large amounts of labeled data to learn patterns and make predictions. The models are trained to identify specific outcomes from predefined inputs.\n\n3. **Customization**: Traditional AI models are generally tailored for particular tasks, such as image recognition or natural language processing, and do not generate new content.\n\n4. **Complexity**: While traditional AI can handle complex algorithms, the output is constrained to the logic and rules defined by the developers.\n\n### Generative AI (Gen AI):\n1. **Functionality**: Generative AI focuses on creating new content, such as images, text, music, or even video. It employs techniques like deep learning and neural networks to generate outputs that resemble training data.\n\n2. **Data Representation**: Gen AI models often leverage unlabelled or less structured data, using techniques such as unsupervised or self-supervised learning. This enables them to learn broader concepts and patterns in the data.\n\n3. **Creativity**: Unlike traditional AI, Generative AI has the ability to produce novel outputs, allowing for creativity and innovation in areas such as art, storytelling, and product design.\n\n4. **Complexity**: The models behind Gen AI, like GANs (Generative Adversarial Networks) and transformers, operate on complex architectures that facilitate the generation of diverse and high-fidelity outputs.\n\nIn summary, traditional AI focuses on data processing and problem-solving for specific tasks, while Generative AI emphasizes creativity and content generation, pushing the boundaries of what machines can create."
+        }
+    ]
+}
